@@ -1,6 +1,6 @@
 /* print
- 1.  Input = 1   Output = ()  10
- 2.  Input = 2   Output = ()() , (()) 1010, 1100 
+ 1.  Input = 1   Output = ()  
+ 2.  Input = 2   Output = ()() , (()) 
  3.  Input = 3   Output = ()()(), ((())) , (()()) , (())() , ()(()) 
 */
 
